@@ -26,24 +26,12 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Overview](#overview)
 
-<!-- OVERVIEW -->
-
-## Overview
-
-### Larger Screen 
-![screenshot](screenshots/default.png)
-___
-### Phone's Screen
-
-<p align="center">
-  <img src="screenshots/phone.png">
-</p>
 
 ### Where can I see your demo
 
@@ -86,3 +74,17 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Twitter  comingsoon
 - Youtube  comingsoon
 
+
+
+<!-- OVERVIEW -->
+
+## Overview
+
+### Larger Screen 
+![screenshot](screenshots/default.png)
+___
+### Phone's Screen
+
+<p align="center">
+  <img src="screenshots/phone.png">
+</p>
