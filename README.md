@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 Not Found</h1>
+<h1 align="center">Recipe Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://github.com/Jervi-sir/4-recipe-page-master">
       Solution
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://4-recipe-page-jervi.netlify.app/">
       Demo
     </a>
   </h3>
